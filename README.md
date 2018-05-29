@@ -12,17 +12,17 @@
 ## 要求
 通过所有的测试
 
-##交付物
+## 交付物
 - 在代码库中的src，应该包含编写的测试用例文件。例如：src/UItest。
 
-##环境
+## 环境
 - JDK
 - Andriod SDK（如需要测试安卓机）
 - [Node.js](https://aaaaaashu.gitbooks.io/mac-dev-setup/content/Node.js/index.html)
 - Xcode
 - [Appium](https://github.com/appium/appium-desktop/releases/tag/v1.3.2)
 
-##开始
+## 开始
 1. 运行Xcode，run [app](https://github.com/gszhangwei/ios-test-app.git)
 2. 启动Appium
 3. 启动inspector
